@@ -1,4 +1,5 @@
 //Objective is to move all zeroes in a 1-D array to the back in-place.
+//We do these operations in place and in O(1) space.
 
 let nums = [0,1,0,3,12]
 
